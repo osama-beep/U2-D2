@@ -208,7 +208,7 @@ h1 {
 
 
 
-.h1::after::after {
+h1::after {
   content: "";
   position: absolute;
   left: 0px;
