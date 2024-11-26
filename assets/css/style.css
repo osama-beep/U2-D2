@@ -437,6 +437,21 @@ footer {
   font-size: 1.2rem;
 }
 
+.develop {
+  position: relative;
+  padding-top: 20px;
+}
+
+.develop .fas.fa-tag {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  font-size: 5rem;
+  color: #6666666b; 
+}
+
+
+
 @media screen and (min-width: 800px) {
   footer {
     padding: 1em 12em;
