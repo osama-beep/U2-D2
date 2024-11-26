@@ -206,12 +206,9 @@ h1 {
   z-index: 1;
 }
 
-.templateText {
-  position: relative;
-  z-index: 1;
-}
 
-.templateText::after {
+
+.h1::after::after {
   content: "";
   position: absolute;
   left: 0px;
